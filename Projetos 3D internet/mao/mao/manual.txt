@@ -1,0 +1,56 @@
+TRABALHO DE COMPUTAÇÃO GRÁFICA
+SIMULAÇÃO DE UMA MÃO HUMANA
+
+ALUNOS
+DANIEL DUARTE ABDALA
+CARLOS EDUARDO GESSER
+
+PROFESSOR
+ALDO VON WANGENHEIM
+
+
+
+	Este trabalho implementa uma simulação de mão humana em 3 dimensões utilizando OpenGL.
+	Grande parte dos movimentos da mão humana foram implementados, desde movimentos de pulso até movimentos dos dedos.
+
+	A seguinte tabela apresenta todos os movimentos mapeados no teclado:
+
+
+	TECLA			FUNCAO
+	A			fecham os dedos individualmente
+	S
+	D
+	F
+	G
+
+	Q			abrem os dedos individualmente
+	W
+	E
+	R
+	T
+
+	
+	0			rotação em z
+	9
+
+	(,)<			rotação em y
+	(.)>
+
+	[			rotação em x
+	]
+
+	+			fecha a mão dedo a dedo
+	-			abre a mão dedo a dedo
+	*			abre a mão
+	/			fecha a mão
+
+	
+
+	Algumas outras funções são mapeadas:
+
+	1			tchau
+	2			fuck
+	3			hangloose
+	4			chama para a briga
+	ESC			fecha o programa
+

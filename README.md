@@ -1,2 +1,8 @@
 # java-playground
-These are some of the Java projects that I used to work with during my graduation (2006 - 2010)
+
+Just another java code.
+
+- [x] Useless for you
+- [x] Simple backup for me
+- [x] No longer maintainable
+- [x] Code from 2006 - 2010 (my graduation ;) )

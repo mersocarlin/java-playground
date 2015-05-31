@@ -1,0 +1,21 @@
+BuscaBinaria (A[0..n-1],k)
+//Entrada: A[0..n-1] vetor ordenado contendo os números e k o
+número a ser encontrado.
+//Saída: o índice de onde está o elemento k dentro do vetor.
+	l = 0;
+	r = n - 1;
+	while (r = l){
+		m = (l + r)/2;
+		if (k = A[m]){
+			Return m;
+		}
+		else{
+			if (k < A[m]){
+				r = m - 1;
+			}
+			else{
+				l = m + 1:
+			}
+		}
+	}
+	return -1;
